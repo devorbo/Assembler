@@ -1,9 +1,9 @@
 # Assembler
-About
 
-An assembler program for an imaginary computer, written in c.
+The program gets as an input an assembly file and goes through it twice. 
 
-Files
+At the first pass, collects data as external and entry labels. 
 
-assembler.c - Main program
-first_pass.c - First pass algorithm
+At the second pass, starts to convert the code to a machine language. 
+
+The output will be the binary file of the code, and if need, also the files with the external and entry label data.
