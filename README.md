@@ -1,7 +1,7 @@
 # Assembler
 About
 
-This is an assembly program that was written for an imaginary computer.
+An assembler program for an imaginary computer, written in c.
 
 Files
 
