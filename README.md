@@ -2,7 +2,7 @@
 
 The program gets as an input an assembly file and goes through it twice. 
 
-At the first pass, collects data as external and entry labels. 
+At the first pass, collects data such as external and entry labels. 
 
 At the second pass, starts to convert the code to a machine language. 
 
